@@ -15,3 +15,4 @@ function whileLoop(n) {
   console.log(`${i}`) }
   return 'done'
 }
+function doWhileLoop(array){
